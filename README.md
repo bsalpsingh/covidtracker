@@ -1,7 +1,7 @@
 "# covidtracker" 
 info-
 Built using BOOTSTRAP (HTML/CSS), JAVASCRIPT (ES6) , NPM & webpack,MVC architecture
- 
+ on your PC
 
 Running the app..
 
